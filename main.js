@@ -25,11 +25,11 @@ let string = `
     background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 100%);
 }
 #div1::before{
-    content:'1';
+    content:'';
     display:block;
 }
 #div1::after{
-    content:'1';
+    content:'';
     display:block;
 }
 /*加两个神秘的小球*/
